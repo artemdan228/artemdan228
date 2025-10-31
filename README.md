@@ -21,19 +21,19 @@
 <details>
 <summary>🇷🇺 Русская версия</summary>
 
-### 👨‍💻 О себе
+### О себе
 
 Я студент ИТМО, учусь на направлении «Информационные системы и технологии». Увлекаюсь математикой и программированием, участвовал и побеждал в школьных олимпиадах по математике. Сейчас активно развиваюсь как разработчик и изучаю современные технологии.
 
-- 🎓 Студент ИТМО, направление «Информационные системы и технологии»  
-- 💭 Интересуюсь бэкенд и fullstack разработкой, алгоритмами и структурами данных  
-- 🏆 Победитель школьных олимпиад по математике  
-- 🧮 Опыт работы репетитором по математике  
-- 🌱 Сейчас углубляю знания в веб-разработке, C# и современных паттернах ООП
+- Студент ИТМО, направление «Информационные системы и технологии»  
+- Интересуюсь бэкенд и fullstack разработкой, алгоритмами и структурами данных  
+- Победитель школьных олимпиад по математике  
+- Опыт работы репетитором по математике  
+- Сейчас углубляю знания в веб-разработке, C# и современных паттернах ООП
 
 ---
 
-### 🛠️ Навыки и технологии
+### Навыки и технологии
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -53,11 +53,24 @@
 
 ---
 
-### 📚 Последние достижения
+### Pet Projects
 
-- ✅ Завершил курс по алгоритмам и структурам данных на C++  
-- 🔭 Работаю над несколькими пет-проектами (C#, веб-приложения)  
-- 📝 Осваиваю новые технологии и углубляюсь в OOP и веб-разработку
+#### C++
+- [Маршрутный планировщик](https://github.com/artemdan228/route-planner) — Консольное приложение для поиска маршрутов между городами с использованием Yandex API Расписаний.
+- [Шедулер задач](https://github.com/artemdan228/Task-Scheduler) — Консольное приложение для управления зависимыми задачами с ленивым вычислением результатов.
+- [Консольный бот для игры в Морской бой](https://github.com/artemdan228/Sea-battle) — Консольное приложение-бот для классической игры Морской бой с возможностью игры в режимах master и slave через стандартные потоки ввода/вывода.
+
+#### C#
+- [Симулятор транспортного маршрута поездов](https://github.com/artemdan228/Train-route-simulator) — Проект представляет собой объектно-ориентированный симулятор транспортной системы, использующей поезда на магнитной подушке. Модель имитирует движение поездов по маршрутам, состоящим из различных типов участков — обычных, силовых и станций. Каждый участок влияет на поведение поезда по-разному, а результатом симуляции является успешное или неудачное прохождение маршрута с расчётом общего времени в пути.
+- [Корпоративная система распределения сообщений](https://github.com/artemdan228/Corporate-messaging-system) — Проект представляет собой объектно-ориентированную модель корпоративной системы обмена сообщениями, реализованную на C#. Система предназначена для распределения, хранения и фильтрации сообщений между различными адресатами: пользователями, архиваторами, системами оповещений и группами. В основе проекта лежат принципы ООП, SOLID, GRASP, а также использование структурных паттернов проектирования.
+  
+---
+
+### Последние достижения
+
+- Завершил курс по алгоритмам и структурам данных на C++  
+- Работаю над несколькими пет-проектами (C#, веб-приложения)  
+- Осваиваю новые технологии и углубляюсь в OOP и веб-разработку
 
 ---
 
@@ -69,22 +82,24 @@
 
 </details>
 
+---
+
 <details>
 <summary>🇬🇧 English Version</summary>
 
-### 👨‍💻 About Me
+### About Me
 
 I'm a student at ITMO University, majoring in Information Technologies and Programming. From an early age, I loved math and programming, participating and winning in math competitions. Now, I’m actively developing my skills as a software developer and exploring modern technologies.
 
-- 🎓 ITMO University, majoring in IT & Programming  
-- 💭 Interested in backend, fullstack development, algorithms, and data structures  
-- 🏆 Winner of school math olympiads  
-- 🧮 Experience as a math tutor  
-- 🌱 Currently deepening my knowledge in web development, C#, and OOP design patterns
+- ITMO University, majoring in IT & Programming  
+- Interested in backend, fullstack development, algorithms, and data structures  
+- Winner of school math olympiads  
+- Experience as a math tutor  
+- Currently deepening my knowledge in web development, C#, and OOP design patterns
 
 ---
 
-### 🛠️ Skills & Technologies
+### Skills & Technologies
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -104,20 +119,31 @@ I'm a student at ITMO University, majoring in Information Technologies and Progr
 
 ---
 
-### 📚 Recent Achievements
+### Pet Projects
 
-- ✅ Completed C++ algorithms & data structures course  
-- 🔭 Working on multiple pet projects (C#, web apps)  
-- 📝 Exploring new technologies, OOP, and web development
+#### C++
+- [Route planner](https://github.com/artemdan228/route-planner) — A console application for finding routes between cities using the Yandex Schedules API.
+- [Task scheduler](https://github.com/artemdan228/Task-Scheduler) — A console application for managing dependent tasks with lazy evaluation of results.
+- [A console bot for playing Sea Battle](https://github.com/artemdan228/Sea-battle) — A console bot application for the classic game Battleship, with the ability to play in master and slave modes via standard input/output streams.
+
+#### C#
+- [Train route simulator](https://github.com/artemdan228/Train-route-simulator) — The project is an object-oriented simulator of a transportation system using magnetic levitation trains. The model simulates train movement along routes consisting of various types of sections—conventional, powered, and station. Each section influences train behavior differently, and the simulation results in the success or failure of the route, along with the calculation of the total travel time.
+- [Corporate messaging system](https://github.com/artemdan228/Corporate-messaging-system) — The project is an object-oriented model of an enterprise messaging system, implemented in C#. The system is designed to distribute, store, and filter messages between various recipients: users, archivers, notification systems, and groups. The project is based on OOP, SOLID, and GRASP principles, as well as the use of structural design patterns.
+  
+---
+
+### Recent Achievements
+
+- Completed C++ algorithms & data structures course  
+- Working on multiple pet projects (C#, web apps)  
+- Exploring new technologies, OOP, and web development
 
 ---
 
-### 📫 Contact Me
+### Contact Me
 
 - Telegram: [@artemka228555](https://t.me/artemka228555)  
 - VK: [artemdan228](https://vk.com/id578738827)  
 - Discord: [Artemka#2285](https://discordapp.com/users/682139592622735382/)
 
 </details>
-
----
